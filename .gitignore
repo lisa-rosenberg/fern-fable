@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# Local environment
+.env
+
+# Quarkus
+/.quarkus/cli/plugins/
