@@ -1,4 +1,4 @@
-package com.rosenbeli.angular.playground;
+package com.rosenbeli.fern_fable;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

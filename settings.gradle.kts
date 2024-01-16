@@ -1,4 +1,4 @@
-rootProject.name="angular-playground"
+rootProject.name="fern-fable"
 
 pluginManagement {
     val quarkusPluginVersion: String by settings

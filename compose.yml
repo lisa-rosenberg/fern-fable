@@ -3,10 +3,11 @@ version: '3.8'
 services:
   db:
     image: postgres:latest
+    container_name: fern-fable-db
     environment:
-      POSTGRES_DB: postgres
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: fern-fable
+      POSTGRES_USER: fern
+      POSTGRES_PASSWORD: fable
     volumes:
       - postgres_data:/var/lib/postgresql/data
     ports:

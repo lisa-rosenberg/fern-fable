@@ -1,4 +1,4 @@
-package com.rosenbeli.angular.playground;
+package com.rosenbeli.fern_fable;
 
 import io.quarkus.hibernate.reactive.panache.PanacheEntity;
 import jakarta.persistence.Entity;

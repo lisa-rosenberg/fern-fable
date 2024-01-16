@@ -1,4 +1,4 @@
-group = "com.rosenbeli.angular_playground"
+group = "com.rosenbeli.fern_fable"
 version = "1.0.0-SNAPSHOT"
 
 val quarkusPlatformGroupId: String by project

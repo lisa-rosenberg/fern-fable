@@ -1,4 +1,4 @@
-package com.rosenbeli.angular.playground;
+package com.rosenbeli.fern_fable;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
